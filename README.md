@@ -1,4 +1,4 @@
 mongosee
 ========
 
-MongoSEE is a Desktop Client Program to manage MongoDB Databases - Rohit King C.
+MongoSEE is a PHP Application to manage MongoDB Databases - Rohit King C.
